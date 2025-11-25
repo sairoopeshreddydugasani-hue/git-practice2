@@ -1,2 +1,6 @@
 hiii hello 
+<<<<<<< HEAD
 devops
+=======
+iam sai roopesh reddy
+>>>>>>> origin/master
