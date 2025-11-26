@@ -1,5 +1,6 @@
 hiii hello 
-HEAD
+<<<<<<< HEAD
 devops
+=======
 iam sai roopesh reddy
-origin/master
+>>>>>>> origin/master
